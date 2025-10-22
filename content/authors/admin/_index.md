@@ -27,7 +27,7 @@ role: Postdoctoral Researcher - Molecular Evolutionary Biology/Biochemistry
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Univeristy of Queensland
+  - name: University of Queensland, Brisbane, Australia
     url: https://www.uq.edu.au/
 
 # Social network links
@@ -46,95 +46,40 @@ profiles:
     url: https://orcid.org/0000-0002-0724-3262
 
 interests:
-  - Protein evolution
-  - Posttranslational Modifications
+  - Protein Evolution
+  - Post-translational Modifications
   - (Functional) Proteomics
-  - Animal evolution
+  - Animal Evolution
 
 education:
-  - area: PhD Molecular Evolutionary Biochemistry
+  - area: PhD Evolutionary Molecular Biology
     institution: European Molecular Biology Laboratory
     date_start: 2019-03-11
     date_end: 2023-11-23
     summary: |
       The evolution of cellular functional modules and the origin of coordinated behavior in Metazoa. Supervised by Prof. Dr. Detlev Arendt.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: M.Sc. Biochemistry
+    institution: University of Regensburg
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Characterization and comparison of homologous enzymes of serine and histidine biosynthesis. Supervised by Prof. Dr. Reinhard Sterner.
+  - area: B.Sc. Biochemistry
+    institution: University of Regensburg
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+  - position: Postdoctoral Researcher
+    institution: European Molecular Biology Laboratory
+    date_start: 2023-11-24
+    date_end: 2024-08-24
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+      Evolution and diversity of protein N-glycosylation in the tree of life. Supervised by Dr. Mikhail Savitski and Prof. Dr. Detlev Arendt.
+  - position: Senior Associate
+    company_name: F.Hoffmann-La Roche AG
+    company_url: 'https://www.roche.com/'
+    company_logo: ''
+    date_start: 2018-05-01
+    date_end: 2019-02-01
+    summary: |2-
+      Development of antibody affinity columns and 2D-HPLC methods.
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -164,4 +109,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a 
