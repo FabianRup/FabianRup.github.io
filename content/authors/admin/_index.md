@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dr. Fabian Ruperti
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Fabian
+last_name: Ruperti
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,43 +23,41 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Researcher - Molecular Evolutionary Biology/Biochemistry
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Univeristy of Queensland
+    url: https://www.uq.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:f.ruperti@uq.edu.au'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=eWQ1YRMAAAAJ&hl=en&oi=ao
+  - icon: brands/github
+    url: https://github.com/FabianRup
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/fabian-ruperti/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-0724-3262
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Protein evolution
+  - Posttranslational Modifications
+  - (Functional) Proteomics
+  - Animal evolution
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Molecular Evolutionary Biochemistry
+    institution: European Molecular Biology Laboratory
+    date_start: 2019-03-11
+    date_end: 2023-11-23
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      The evolution of cellular functional modules and the origin of coordinated behavior in Metazoa. Supervised by Prof. Dr. Detlev Arendt.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
