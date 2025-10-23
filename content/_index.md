@@ -14,14 +14,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: ''
-        url: ''
-      headings:
-        about: ''
-        education: ''
-        interests: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient

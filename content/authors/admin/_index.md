@@ -76,12 +76,6 @@ work:
     date_end: 2024-08-24
     summary: |
       Evolution and diversity of protein N-glycosylation in the tree of life. Supervised by Dr. Mikhail Savitski and Prof. Dr. Detlev Arendt.
-  - area: M.Sc. Biochemistry / Visting Scientist
-    institution: University of Colorado, Boulder
-    date_start: 2018-08-01
-    date_end: 2017-01-01
-    summary: |2-
-      Development of a novel next-generation HP virus vaccine application method. Supervised by Prof. T. W. Randolph, Ph.D. and Prof. R. Garcea, M.D.
   - position: Senior Associate
     company_name: F.Hoffmann-La Roche AG
     company_url: 'https://www.roche.com/'
@@ -90,6 +84,12 @@ work:
     date_end: 2019-02-01
     summary: |2-
       Development of antibody affinity columns and 2D-HPLC methods.
+  - position: Visting Scientist
+    institution: University of Colorado, Boulder
+    date_start: 2018-08-01
+    date_end: 2017-01-01
+    summary: |2-
+      Development of a novel next-generation HP virus vaccine application method. Supervised by Prof. T. W. Randolph, Ph.D. and Prof. R. Garcea, M.D.
 
 ---
 
