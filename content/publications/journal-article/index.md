@@ -1,11 +1,11 @@
 ---
-title: "An example journal article"
+title: "Molecular profiling of sponge deflation reveals an ancient relaxant-inflammatory response"
 authors:
 - admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-01-22T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,17 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Current Biology, Volume 34, Issue 2, 361 - 375.e9"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
+abstract: A hallmark of animals is the coordination of whole-body movement. Neurons and muscles are central to this, yet coordinated movements also exist in sponges that lack these cell types. Sponges are sessile animals with a complex canal system for filter-feeding. They undergo whole-body movements resembling “contractions” that lead to canal closure and water expulsion. Here, we combine live 3D optical coherence microscopy, pharmacology, and functional proteomics to elucidate the sequence and detail of shape changes, the tissues and molecular physiology involved, and the control of these movements. Morphometric analysis and targeted perturbation suggest that the movement is driven by the relaxation of actomyosin stress fibers in epithelial canal cells, which leads to whole-body deflation via collapse of the incurrent and expansion of the excurrent canal system. Thermal proteome profiling and quantitative phosphoproteomics confirm the control of cellular relaxation by an Akt/NO/PKG/PKA pathway. Agitation-induced deflation leads to differential phosphorylation of proteins forming epithelial cell junctions, implying their mechanosensitive role. Unexpectedly, untargeted metabolomics detect a concomitant decrease in antioxidant molecules during deflation, reflecting an increase in reactive oxygen species. Together with the secretion of proteinases, cytokines, and granulin, this indicates an inflammation-like state of the deflating sponge reminiscent of vascular endothelial cells experiencing oscillatory shear stress. These results suggest the conservation of an ancient relaxant-inflammatory response of perturbed fluid-carrying systems in animals and offer a possible mechanism for whole-body coordination through diffusible paracrine signals and mechanotransduction.
 
 hugoblox:
   ids:
@@ -34,26 +27,16 @@ hugoblox:
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: https://www.cell.com/current-biology/fulltext/S0960-9822(23)01676-7?uuid=uuid%3Af6f840a6-a9d0-4a0a-95b3-6af40d32ac6e
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: https://github.com/FabianRup/SpongeProt
   - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://zenodo.org/records/8116913
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: Fabian Ruperti'
   focal_point: ""
   preview_only: false
 
@@ -71,11 +54,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
