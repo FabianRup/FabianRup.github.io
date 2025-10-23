@@ -60,18 +60,28 @@ education:
       The evolution of cellular functional modules and the origin of coordinated behavior in Metazoa. Supervised by Prof. Dr. Detlev Arendt.
   - area: M.Sc. Biochemistry
     institution: University of Regensburg
+    date_start: 2018-03-01
+    date_end: 2015-10-01
     summary: |
       Characterization and comparison of homologous enzymes of serine and histidine biosynthesis. Supervised by Prof. Dr. Reinhard Sterner.
   - area: B.Sc. Biochemistry
     institution: University of Regensburg
+    date_start: 2012-10-01
+    date_end: 2015-08-01
 
 work:
   - position: Postdoctoral Researcher
-    institution: European Molecular Biology Laboratory
+    company_name: European Molecular Biology Laboratory
     date_start: 2023-11-24
     date_end: 2024-08-24
     summary: |
       Evolution and diversity of protein N-glycosylation in the tree of life. Supervised by Dr. Mikhail Savitski and Prof. Dr. Detlev Arendt.
+  - area: M.Sc. Biochemistry / Visting Scientist
+    institution: University of Colorado, Boulder
+    date_start: 2018-08-01
+    date_end: 2017-01-01
+    summary: |2-
+      Development of a novel next-generation HP virus vaccine application method. Supervised by Prof. T. W. Randolph, Ph.D. and Prof. R. Garcea, M.D.
   - position: Senior Associate
     company_name: F.Hoffmann-La Roche AG
     company_url: 'https://www.roche.com/'
@@ -81,32 +91,8 @@ work:
     summary: |2-
       Development of antibody affinity columns and 2D-HPLC methods.
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a 
+I am a molecular biologist/biochemist and postdoctoral researcher at the University of Queensland, Brisbane, Australia. My research lies at the intersection of functional proteomics and evolutionary biology, with a particular focus on how proteins and their post-translational modifications have evolved to shape key animal traits. Using mass spectrometry as my main analytical tool, I study early-branching animals such as sponges, ctenophores, and cnidarians to uncover the molecular innovations underlying the emergence of multicellularity, the nervous and immune systems, and symbiotic interactions.
+
+Please reach out for potential collaborations or peer-review requests. 
