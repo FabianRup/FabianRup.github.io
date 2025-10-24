@@ -12,7 +12,7 @@ authors:
 date: "2024-12-18T00:00:00Z"
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
