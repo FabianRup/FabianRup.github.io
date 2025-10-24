@@ -1,7 +1,7 @@
 ---
 title: "Cross-phyla protein annotation by structural prediction and alignment"
 authors:
-- admin
+- fabian-ruperti
 - "Nikolaos Papadopoulos"
 - "Jacob M. Musser"
 - "Milot Mirdita"

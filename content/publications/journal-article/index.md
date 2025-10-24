@@ -1,10 +1,22 @@
 ---
 title: "Molecular profiling of sponge deflation reveals an ancient relaxant-inflammatory response"
 authors:
-- admin
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- fabian-ruperti
+- "Isabelle Becher"
+- "Anniek Stokkermans"
+- "Ling Wang"
+- "Nick Marschlich"
+- "Clement Potel"
+- "Emanuel Maus"
+- "Frank Stein"
+- "Bernhard Drotleff"
+- "Klaske J. Schippers"
+- "Michael Nickel"
+- "Robert Prevedel"
+- "Jacob M. Musser"
+- "Mikhail M. Savitski"
+- "Detlev Arendt"
+
 date: "2024-01-22T00:00:00Z"
 
 # Display this page in the Featured widget?
