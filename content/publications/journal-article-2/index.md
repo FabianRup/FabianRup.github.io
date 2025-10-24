@@ -2,11 +2,11 @@
 title: "Cross-phyla protein annotation by structural prediction and alignment"
 authors:
 - admin
-- Nikolaos Papadopoulos
-- Jacob M. Musser
-- Milot Mirdita
-- Martin Steinegger
-- Detlev Arendt
+- "Nikolaos Papadopoulos"
+- "Jacob M. Musser"
+- "Milot Mirdita"
+- "Martin Steinegger"
+- "Detlev Arendt"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
