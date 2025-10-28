@@ -1,5 +1,5 @@
 ---
-title: "Cross-phyla protein annotation by structural prediction and alignment"
+title: "Proteomic analysis of the sponge Aggregation Factor implicates an ancient toolkit for allorecognition and adhesion in animals"
 authors:
 - fabian-ruperti
 - "Monika Dzieciatkowska"
