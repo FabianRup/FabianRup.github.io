@@ -12,10 +12,24 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here is a selection of projects that I am currently working on.
       filters:
         folders:
           - projects
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+  - block: collection
+    content:
+      title: News
+      text: Here are infos about conferences, talks, publications, field trips - or fun stuff.
+      filters:
+        folders:
+          - news
     design:
       view: article-grid
       fill_image: false

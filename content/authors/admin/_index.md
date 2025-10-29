@@ -71,6 +71,12 @@ education:
 
 work:
   - position: Postdoctoral Researcher
+    company_name: University of Queensland, Brisbane, Australia
+    date_start: 2025-06-11
+    date_end: 
+    summary: |2-
+      Evolution and diversity of protein N-glycosylation in the tree of life. Supervised by Prof. Dr. Bernard Degnan, Prof. Dr. Sandie Degnan and Prof. Dr. Benjamin Schulz.
+  - position: Postdoctoral Researcher
     company_name: European Molecular Biology Laboratory, Heidelberg, Germany
     date_start: 2023-11-24
     date_end: 2024-08-24
