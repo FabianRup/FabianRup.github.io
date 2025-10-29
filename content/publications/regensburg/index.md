@@ -1,26 +1,26 @@
 ---
-title: "Molecular profiling of sponge deflation reveals an ancient relaxant-inflammatory response"
+title: "Library selection with a randomized repertoire of ($\beta$$\alpha$) 8-barrel enzymes results in unexpected induction of gene expression"
 authors:
+- "Bettina Rohweder"
+- "Gerhard Lehmann"
+- "Norbert Eichner"
+- "Tino Polen"
+- "Chitra Rajendran"
 - fabian-ruperti
-- "Isabelle Becher"
-- "Anniek Stokkermans"
-- "Ling Wang"
-- "Nick Marschlich"
-- "Clement Potel"
-- "Emanuel Maus"
-- "Frank Stein"
-- "Bernhard Drotleff"
-- "Klaske J. Schippers"
-- "Michael Nickel"
-- "Robert Prevedel"
-- "Jacob M. Musser"
-- "Mikhail M. Savitski"
-- "Detlev Arendt"
+- "Mona Linde"
+- "Thomas Treiber"
+- "Oona Jung"
+- "Katja Dettmer"
+- "Gunter Meister"
+- "Michael Bott"
+- "Wolfram Gronwald"
+- "Reinhard Sterner"
 
-date: "2024-01-22T00:00:00Z"
+
+date: "2019-09-26T00:00:00Z"
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,25 +31,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Current Biology, Volume 34, Issue 2, 361 - 375.e9"
+publication: "Biochemistry 2019, 58, 41, 4207–4217"
 publication_short: ""
 
-abstract: A hallmark of animals is the coordination of whole-body movement. Neurons and muscles are central to this, yet coordinated movements also exist in sponges that lack these cell types. Sponges are sessile animals with a complex canal system for filter-feeding. They undergo whole-body movements resembling “contractions” that lead to canal closure and water expulsion. Here, we combine live 3D optical coherence microscopy, pharmacology, and functional proteomics to elucidate the sequence and detail of shape changes, the tissues and molecular physiology involved, and the control of these movements. Morphometric analysis and targeted perturbation suggest that the movement is driven by the relaxation of actomyosin stress fibers in epithelial canal cells, which leads to whole-body deflation via collapse of the incurrent and expansion of the excurrent canal system. Thermal proteome profiling and quantitative phosphoproteomics confirm the control of cellular relaxation by an Akt/NO/PKG/PKA pathway. Agitation-induced deflation leads to differential phosphorylation of proteins forming epithelial cell junctions, implying their mechanosensitive role. Unexpectedly, untargeted metabolomics detect a concomitant decrease in antioxidant molecules during deflation, reflecting an increase in reactive oxygen species. Together with the secretion of proteinases, cytokines, and granulin, this indicates an inflammation-like state of the deflating sponge reminiscent of vascular endothelial cells experiencing oscillatory shear stress. These results suggest the conservation of an ancient relaxant-inflammatory response of perturbed fluid-carrying systems in animals and offer a possible mechanism for whole-body coordination through diffusible paracrine signals and mechanotransduction.
+abstract: The potential of the frequently encountered (βα)8-barrel fold to acquire new functions was tested by an approach combining random mutagenesis and selection in vivo. For this purpose, the genes encoding 52 different phosphate-binding (βα)8-barrel proteins were subjected to error-prone PCR and cloned into an expression plasmid. The resulting mixed repertoire was used to transform different auxotrophic Escherichia coli strains, each lacking an enzyme with a phosphate-containing substrate. After plating of the different transformants on minimal medium, growth was observed only for two strains, lacking either the gene for the serine phosphatase SerB or the phosphoserine aminotransferase SerC. The same mutants of the E. coli genes nanE (encoding a putative N-acetylmannosamine-6-phosphate 2-epimerase) and pdxJ (encoding the pyridoxine 5′-phosphate synthase) were responsible for rescuing both ΔserB and ΔserC. Unexpectedly, the complementing NanE and PdxJ variants did not catalyze the SerB or SerC reactions in vitro. Instead, RT-qPCR, RNAseq, and transcriptome analysis showed that they rescue the deletions by enlisting the help of endogenous E. coli enzymes HisB and HisC through exclusive up-regulation of histidine operon transcription. While the promiscuous SerB activity of HisB is well-established, our data indicate that HisC is promiscuous for the SerC reaction, as well. The successful rescue of ΔserB and ΔserC through point mutations and recruitment of additional amino acids in NanE and PdxJ provides another example for the adaptability of the (βα)8-barrel fold.
 
 links:
   - type: pdf
-    url: https://www.cell.com/current-biology/fulltext/S0960-9822(23)01676-7?uuid=uuid%3Af6f840a6-a9d0-4a0a-95b3-6af40d32ac6e
-  - type: code
-    url: https://github.com/FabianRup/SpongeProt
-  - type: dataset
-    url: https://zenodo.org/records/8116913
-  - type: news
-    url: https://www.embl.org/news/science/ancient-relaxant-inflammatory-mechanism-get-sponges-moving/
+    url: https://pubs.acs.org/doi/full/10.1021/acs.biochem.9b00579
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Fabian Ruperti'
+  caption: ''
   focal_point: ""
   preview_only: false
 

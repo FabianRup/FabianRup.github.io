@@ -71,13 +71,13 @@ education:
 
 work:
   - position: Postdoctoral Researcher
-    company_name: European Molecular Biology Laboratory
+    company_name: European Molecular Biology Laboratory, Heidelberg, Germany
     date_start: 2023-11-24
     date_end: 2024-08-24
-    summary: |
+    summary: |2-
       Evolution and diversity of protein N-glycosylation in the tree of life. Supervised by Dr. Mikhail Savitski and Prof. Dr. Detlev Arendt.
   - position: Senior Associate
-    company_name: F.Hoffmann-La Roche AG
+    company_name: F.Hoffmann-La Roche AG, Penzberg, Germany
     company_url: 'https://www.roche.com/'
     company_logo: ''
     date_start: 2018-05-01
@@ -85,14 +85,35 @@ work:
     summary: |2-
       Development of antibody affinity columns and 2D-HPLC methods.
   - position: Visting Scientist
-    institution: University of Colorado, Boulder
+    company_name: University of Colorado, Boulder, USA
     date_start: 2018-08-01
     date_end: 2017-01-01
     summary: |2-
       Development of a novel next-generation HP virus vaccine application method. Supervised by Prof. T. W. Randolph, Ph.D. and Prof. R. Garcea, M.D.
 
+awards:
+  - title: "EMBO Postdoctoral Fellowship"
+    awarder: "European Molecular Biology Organization (EMBO)"
+    date: "2025-01"
+    url: "https://www.embo.org/"
+    summary: "Protein glycosylation and the origin of the animal “self”"
+  - title: "HFSP Long-term Postdoctoral Fellowship"
+    awarder: "Human Frontier Science Program"
+    date: "2025-03"
+    url: "https://www.hfsp.org/"
+    summary: "The dynamic regulation of coral-dinoflagellate symbiosis by protein glycosylation"
+  - title: "Planetary Biology Seed Project Grant"
+    awarder: "EMBL Planetary Biology Transversal Theme"
+    date: "2024-02"
+    url: "https://www.embl.org/about/info/planetary-biology/"
+    summary: "DOLITTLE - Diversity of protein N-glycosylation in the tree of life"
+  - title: "Marie Skłodowska-Curie Action Predoctoral Fellowship"
+    awarder: "ERC - Horizon 2020 framework of the European Commission - ITN IGNITE"
+    date: "2019-03"
+    url: "https://www.embl.org/about/info/planetary-biology/"
+    summary: "Elucidating the mechanics of nervous reactions in nerveless sponges"
 ---
 
-I am a molecular biologist/biochemist and postdoctoral researcher at the University of Queensland, Brisbane, Australia. My research lies at the intersection of functional proteomics and evolutionary biology, with a particular focus on how proteins and their post-translational modifications have evolved to shape key animal traits. Using mass spectrometry as my main analytical tool, I study early-branching animals such as sponges, ctenophores, and cnidarians to uncover the molecular innovations underlying the emergence of multicellularity, the nervous and immune systems, and symbiotic interactions.
+I am a molecular biologist/biochemist and postdoctoral researcher at the University of Queensland, Brisbane, Australia. My research lies at the intersection of functional proteomics and evolutionary biology, with a particular focus on how proteins and their post-translational modifications have evolved to shape key animal traits. Using mass spectrometry as my main analytical tool, I study early-branching animals such as sponges, ctenophores, and cnidarians to uncover the post-translational innovations underlying the emergence of multicellularity, the nervous and immune systems, and symbiotic interactions.
 
 Please reach out for potential collaborations or peer-review requests. 
