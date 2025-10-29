@@ -17,6 +17,6 @@ In this project, I am using use high-throughput, high-resolution mass spectromet
 
 The assembly and analysis of this expansive new resource will reveal how changes in the “***glycan code of life***” shaped the origin of animal multicellularity, the diversification of cell types and their intra- and interspecies interactions.
 
-This project is a large collaboration between multiple labs, including but not limited to the lab of [Bernard] ("https://about.uq.edu.au/experts/350") and [Sandie]("https://about.uq.edu.au/experts/724") Degnan (Univeristy of Queensland, Australia), the [Schulz lab]("https://about.uq.edu.au/experts/760") (University of Queensland, Australia), the [Savitski lab]("https://www.embl.org/groups/savitski/") (EMBL Heidelberg, Germany) and the [Arendt lab]("https://www.embl.org/groups/arendt/") (EMBL Heidelberg, Germany).
+This project is a large collaboration between multiple labs, including but not limited to the lab of [Bernard](https://about.uq.edu.au/experts/350) and [Sandie](https://about.uq.edu.au/experts/724) Degnan (Univeristy of Queensland, Australia), the [Schulz lab](https://about.uq.edu.au/experts/760) (University of Queensland, Australia), the [Savitski lab](https://www.embl.org/groups/savitski/) (EMBL Heidelberg, Germany) and the [Arendt lab](https://www.embl.org/groups/arendt/) (EMBL Heidelberg, Germany).
 
 <!--more-->
