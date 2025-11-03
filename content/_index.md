@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '4rem'
+  spacing: '2rem'
 
 sections:
   - block: resume-biography-3
@@ -21,6 +21,7 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
   - block: collection
     id: papers
     content:
@@ -32,6 +33,7 @@ sections:
     design:
       view: article-grid
       columns: 3
+
   - block: collection
     content:
       title: Recent Publications
@@ -42,6 +44,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
       # === Experience ===
   - block: resume-experience
     content:
@@ -56,6 +59,7 @@ sections:
     content:
       title: Fellowships and Awards
       username: admin
+
   - block: collection
     id: news
     content:
@@ -71,6 +75,18 @@ sections:
       view: card
       spacing:
         padding: [0, 0, 0, 0]
+
+  - block: collection
+    id: projects
+    content:
+      title: Selected Projects
+      text: Here is a selection of projects that I am currently working on.
+      filters: { folders: [projects] }
+    design:
+      view: article-grid
+      columns: 2
+      fill_image: false
+      
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

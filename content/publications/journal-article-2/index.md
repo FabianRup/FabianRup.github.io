@@ -8,8 +8,12 @@ authors:
 - "Martin Steinegger"
 - "Detlev Arendt"
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Equal contribution"   # for Fabian
+- "Equal contribution"   # for Nikolaos
+- ""                     # no note
+- ""                     # no note
+- ""                     # no note
+- ""                     # no note
 date: "2023-05-12T00:00:00Z"
 
 # Display this page in the Featured widget?
