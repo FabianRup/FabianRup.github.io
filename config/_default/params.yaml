@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+favicon:
+  light: "media/icons/favicon.png"
+  dark: "media/icons/favicon.png"
