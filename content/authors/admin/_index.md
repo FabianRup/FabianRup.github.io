@@ -54,18 +54,21 @@ interests:
 education:
   - area: PhD Evolutionary Molecular Biology
     institution: European Molecular Biology Laboratory
+    url: /experience/
     date_start: 2019-03-11
     date_end: 2023-11-23
     summary: |
       The evolution of cellular functional modules and the origin of coordinated behavior in Metazoa. Supervised by Prof. Dr. Detlev Arendt.
   - area: M.Sc. Biochemistry
     institution: University of Regensburg
+    url: /experience/
     date_start: 2018-03-01
     date_end: 2015-10-01
     summary: |
       Characterization and comparison of homologous enzymes of serine and histidine biosynthesis. Supervised by Prof. Dr. Reinhard Sterner.
   - area: B.Sc. Biochemistry
     institution: University of Regensburg
+    url: /experience/
     date_start: 2012-10-01
     date_end: 2015-08-01
 
