@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
   - block: resume-biography-3
@@ -42,6 +42,20 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      # === Experience ===
+  - block: resume-experience
+    content:
+      title: Experience
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+
+  # === Awards ===
+  - block: resume-awards
+    content:
+      title: Fellowships and Awards
+      username: admin
   - block: collection
     id: news
     content:
