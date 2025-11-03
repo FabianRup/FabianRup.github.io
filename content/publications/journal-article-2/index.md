@@ -7,13 +7,6 @@ authors:
 - "Milot Mirdita"
 - "Martin Steinegger"
 - "Detlev Arendt"
-author_notes:
-- "Equal contribution"   # for Fabian
-- "Equal contribution"   # for Nikolaos
-- ""                     # no note
-- ""                     # no note
-- ""                     # no note
-- ""                     # no note
 date: "2023-05-12T00:00:00Z"
 
 # Display this page in the Featured widget?
@@ -53,7 +46,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [content/projects/dolittle/index.md]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
