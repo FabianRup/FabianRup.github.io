@@ -1,26 +1,24 @@
 ---
-title: 'Projects'
+title: 'News'
 date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Latest News
+      text: Updates on conferences, talks, publications, field trips, and fun stuff.
       filters:
         folders:
-          - projects
+          - news
     design:
       view: article-grid
       fill_image: false
       columns: 3
-      show_date: false
+      show_date: true
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---
