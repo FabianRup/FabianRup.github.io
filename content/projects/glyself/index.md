@@ -4,6 +4,12 @@ date: 2025-06-11
 # links:
 #   - type: site
 #     url: https://github.com/pytorch/pytorch
+
+image:
+  caption: 'Reaggregating sponge cells. Image credit: Fabian Ruperti'
+  focal_point: ""
+  preview_only: false
+
 tags:
   - evolution
   - glycosylation

@@ -4,6 +4,13 @@ date: 2025-11-03
 # links:
 #   - type: site
 #     url: https://github.com/pytorch/pytorch
+
+image:
+  caption: '*Amphimedon queenslandica* brood chamber. Image credit: Fabian Ruperti'
+  focal_point: ""
+  preview_only: false
+
+
 tags:
   - sampling
   - glycosylation

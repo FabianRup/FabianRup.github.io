@@ -4,6 +4,12 @@ date: 2024-02-14
 # links:
 #   - type: site
 #     url: https://github.com/pandas-dev/pandas
+
+image:
+  caption: 'Image credit: Fabian Ruperti'
+  focal_point: ""
+  preview_only: false
+
 tags:
   - glycosylation
   - evolution
