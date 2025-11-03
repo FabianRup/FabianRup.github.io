@@ -125,4 +125,4 @@ awards:
 
 I am a molecular biologist/biochemist and postdoctoral researcher at the University of Queensland, Brisbane, Australia. My research lies at the intersection of **functional proteomics** and **evolutionary biology**, with a particular focus on how proteins and their **post-translational modifications** have evolved to shape key animal traits. Using mass spectrometry as my main analytical tool, I study early-branching animals such as sponges, ctenophores, and cnidarians to uncover the post-translational innovations underlying the emergence of multicellularity, the nervous and immune systems, and symbiotic interactions.
 
-Please reach out for potential collaborations or peer-review requests. 
+Please [reach out](mailto:f.ruperti@uq.edu.au) for potential collaborations, peer-review requests or just interest in evolution and proteins! 
