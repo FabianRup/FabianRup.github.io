@@ -22,7 +22,7 @@ My first time sampling at Heron Island reef was a blast. Heron Island is a coral
 
 This trip was my first time collecting my main model species, the coral reef sponge *Amphimedon queenslandica* with my wonderful collegues Oceane and Eve, who taught me everything about collection, spawning and larval collection. Additionally, I was able to do some sponge cell reagreggation experiments for my [GlySelf](/projects/glyself/) project. 
 
-In our (little) free time, I was mainly snorkling and exploring live rock under the microscope - some pictures posted below! 
+In our (little) free time, I was mainly snorkeling and exploring live rock under the microscope - some pictures posted below! 
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-3 not-prose my-4">
   <a href="img1.jpeg"><img src="img1.jpeg" alt="Shot 1" class="rounded-lg"></a>

@@ -62,8 +62,8 @@ education:
   - area: M.Sc. Biochemistry
     institution: University of Regensburg
     url: /experience/
-    date_start: 2018-03-01
-    date_end: 2015-10-01
+    date_start: 2015-10-01
+    date_end: 2018-03-01
     summary: |
       Characterization and comparison of homologous enzymes of serine and histidine biosynthesis. Supervised by Prof. Dr. Reinhard Sterner.
   - area: B.Sc. Biochemistry
@@ -95,8 +95,8 @@ work:
       Development of antibody affinity columns and 2D-HPLC methods.
   - position: Visting Scientist
     company_name: University of Colorado, Boulder, USA
-    date_start: 2018-08-01
-    date_end: 2017-01-01
+    date_start: 2017-01-01
+    date_end: 2018-08-01
     summary: |2-
       Development of a novel next-generation HP virus vaccine application method. Supervised by Prof. T. W. Randolph, Ph.D. and Prof. R. Garcea, M.D.
 
