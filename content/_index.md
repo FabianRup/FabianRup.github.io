@@ -62,21 +62,16 @@ sections:
       title: Fellowships and Awards
       username: admin
 
-  - block: collection
+    - block: collection
     id: news
     content:
       title: Recent News
-      text: ''
-      filters:
-        folders:
-          - news
-      count: 5
-      offset: 0
-      order: desc
+      text: Updates on conferences, talks, publications, field trips, and fun stuff.
+      filters: { folders: [news] }
     design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: article-grid
+      columns: 2
+      fill_image: false
 
   - block: collection
     id: projects
