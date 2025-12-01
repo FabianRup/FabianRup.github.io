@@ -1,6 +1,6 @@
 ---
 title: Talk at the 2025 West Pacific Marine Biology Network Conference
-date: 2025-12-01
+date: 2025-11-30
 # links:
 #   - type: site
 #     url: https://github.com/pytorch/pytorch
