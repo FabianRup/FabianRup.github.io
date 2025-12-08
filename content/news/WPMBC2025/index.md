@@ -22,7 +22,7 @@ I was lucky to have another conference right at my doorstep! **The West Pacific 
 This gave me the opportunity to talk about [Dolittle](/projects/dolittle) *for the first time time*. During the conference it became clear that glycosylation plays a fundamental role in marine processes and climate change related issues. Communication, symbiosis, defence, temperature resilience - everything connected to and carried out by glycans. 
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-3 not-prose my-4">
-  <a href="img1.jpeg"><img src="img1.png" alt="Shot 1" class="rounded-lg"></a>
+  <a href="img1.jpeg"><img src="img1.jpeg" alt="Shot 1" class="rounded-lg"></a>
   <!-- add more as needed -->
 </div>
 
