@@ -24,62 +24,6 @@ sections:
         shape: circle # Options: circle (default), square, rounded
 
   - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
-
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-
-      # === Experience ===
-  - block: resume-experience
-    id: experience
-    content:
-      title: Experience
-      username: admin
-    design:
-      date_format: 'January 2006'
-      is_education_first: false
-
-  # === Awards ===
-  - block: resume-awards
-    content:
-      title: Fellowships and Awards
-      username: admin
-
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     text: Updates on conferences, talks, publications, field trips, and fun stuff.
-  #     filters:
-  #       folders:
-  #         - news
-  #     count: 5
-  #     offset: 0
-  #     order: desc
-  #   design:
-  #     view: card
-  #     columns: 2
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-
-  - block: collection
     id: news
     content:
       title: Recent News
@@ -100,5 +44,44 @@ sections:
       view: article-grid
       columns: 2
       fill_image: false
+
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+
+      # === Experience ===
+  - block: resume-experience
+    id: experience
+    content:
+      title: Experience
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+
+  # === Awards ===
+  - block: resume-awards
+    content:
+      title: Fellowships and Awards
+      username: admin
+
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 
 ---
