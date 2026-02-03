@@ -1,6 +1,6 @@
 ---
-title: Talk at the 2025 Australasian Evolution Society Conference
-date: 2025-10-03
+title: Talk at the 2026 Queensland Mass Spectrometry Symposium
+date: 2026-02-03
 # links:
 #   - type: site
 #     url: https://github.com/pytorch/pytorch
