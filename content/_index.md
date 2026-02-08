@@ -24,17 +24,6 @@ sections:
         shape: circle # Options: circle (default), square, rounded
 
   - block: collection
-    id: news
-    content:
-      title: Recent News
-      text: Updates on conferences, talks, publications, field trips, and fun stuff.
-      filters: { folders: [news] }
-    design:
-      view: article-grid
-      columns: 2
-      fill_image: false
-
-  - block: collection
     id: projects
     content:
       title: Selected Projects
@@ -43,6 +32,17 @@ sections:
     design:
       view: article-grid
       columns: 2
+      fill_image: false
+
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      text: Updates on conferences, talks, publications, field trips, and fun stuff.
+      filters: { folders: [news] }
+    design:
+      view: article-grid
+      columns: 3
       fill_image: false
 
   - block: collection
