@@ -9,15 +9,15 @@ main:
     weight: 10
   - name: Projects
     url: /#projects
-    weight: 50
+    weight: 20
   - name: News
     url: /#news
-    weight: 40
+    weight: 30
   - name: Publications
     url: /#papers
-    weight: 20
+    weight: 40
   - name: Bio
     url: /#experience
-    weight: 30
+    weight: 50
 
 
